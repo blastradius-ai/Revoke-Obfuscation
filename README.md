@@ -1,3 +1,4 @@
+This fork has had file paths adjusted to work on AWS Linux. Otherwise it works the same as master.
 Revoke-Obfuscation v1.0
 ===============
 
